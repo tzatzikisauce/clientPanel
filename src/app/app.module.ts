@@ -22,6 +22,7 @@ import { SettingsComponent } from './components/settings/settings.component';
 import { NotFoundComponent } from './components/not-found/not-found.component';
 import { RegisterComponent } from './components/register/register.component';
 
+
 @NgModule({
   declarations: [
     AppComponent,
